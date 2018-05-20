@@ -1,5 +1,4 @@
 
-# Created by https://www.gitignore.io/api/osx,jekyll,codekit
 
 ### CodeKit ###
 # General CodeKit files to ignore
@@ -44,4 +43,4 @@ Temporary Items
 .apdisk
 
 
-# End of https://www.gitignore.io/api/osx,jekyll,codekit
+
